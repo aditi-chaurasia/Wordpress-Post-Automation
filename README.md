@@ -104,7 +104,7 @@ Steps:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/AST-Consulting/wp-news-cron.git "post-automation"
+git clone https://github.com/A-Consult/wp-news.git "post-automation"
 cd "post-automation"
 ```
 
@@ -205,6 +205,7 @@ If you'd like, I can also:
 - commit these README changes and make a GitHub push (I can run commands for you)
 
 File updated: [README.md](README.md)
+
 
 
 
