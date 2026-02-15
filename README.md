@@ -1,7 +1,7 @@
 # WordPress News Automation - Dual Cron System
 
 Automated Hindi news content generation and publishing system with optimized intervals for different content types:
-- Multi-source News: Every 45 minutes
+- **Multi-source News**: Every 45 minutes
 - **Viral & UP News**: Every 3 hours
 - **Image Retry**: Every 6 hours
 
@@ -205,4 +205,5 @@ If you'd like, I can also:
 - commit these README changes and make a GitHub push (I can run commands for you)
 
 File updated: [README.md](README.md)
+
 
