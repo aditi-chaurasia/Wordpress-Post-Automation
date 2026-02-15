@@ -1,0 +1,17 @@
+{
+  "gemini": {
+    "api_key": "AIzaSyAMAltWoHufiTV-_SAO5qnwW7CadXXqJQA"
+  },
+  "wordpress": {
+    "site_url": "https://thebharatpost.com/",
+    "username": "disharth",
+    "password": "ne7N n3jh queG KwH7 pOvX YXK8"
+  },
+  "image_generator": {
+    "api_key": "AIzaSyAMAltWoHufiTV-_SAO5qnwW7CadXXqJQA"
+  },
+  "automation": {
+    "max_posts_per_run": 20,
+    "country": "US"
+  }
+}

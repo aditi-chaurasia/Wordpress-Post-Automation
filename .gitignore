@@ -1,0 +1,49 @@
+# WordPress News Automation - Git Ignore
+# Only include essential files for cron job automation
+
+# Exclude all files by default
+*
+
+# Include only essential files
+!wordpress.py
+!scheduler.py
+!run_automation.sh
+!config.json
+!requirements.txt
+!processed_trends.json
+!setup_15min_cron.sh
+
+# Include predefined_images directory and its contents
+!predefined_images/
+!predefined_images/**/*
+
+# Include .gitignore itself
+!.gitignore
+
+# Include README for GitHub (optional)
+!README.md
+
+# Always exclude these
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.logs
+logs/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Exclude documentation files (keep repo minimal)
+DEPLOYMENT_GUIDE.md
+DYNAMIC_IMAGE_*.md
+SETUP_SUMMARY.md
+UBUNTU_SETUP.md
+setup_cron.sh
+transfer_to_server.sh
+debug_*.py
+test_*.py
+placeholder_*.txt
+automation.log
+scheduler.log 
