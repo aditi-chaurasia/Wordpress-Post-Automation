@@ -10,7 +10,7 @@ Automated Hindi news content generation and publishing system with optimized int
 1. **Clone Repository**
    ```bash
    git clone https://github.com/A-Consult/wp-news.git
-   cd wp-news-cron
+   cd wp-news
    ```
 
 2. **Update Configuration**
@@ -205,6 +205,7 @@ If you'd like, I can also:
 - commit these README changes and make a GitHub push (I can run commands for you)
 
 File updated: [README.md](README.md)
+
 
 
 
